@@ -8,6 +8,7 @@ Our Website : https://kukode.com
 |:------- |:------------|
 | https://lab.kukode.com | All links for our playground |
 | https://lab.kukode.com/almatsurat/ | Read Al-Ma'tsurat Online |
+| https://lab.kukode.com/mapimg/ | Download Image from Google Maps |
 | https://lab.kukode.com/lipsum-generator | Lorem Ipsum Text Generator |
 | https://lab.kukode.com/flex/ | CSS Flexbox Playground |
 | https://lab.kukode.com/password-generator/ | Password Generator |
